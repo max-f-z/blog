@@ -35,7 +35,7 @@ google_analytics: ''
 favicon: /favicon.png
 
 #你的头像url
-avatar:/img/icon.jpg
+avatar: /img/icon.jpg
 #是否开启分享
 share_jia: true
 share_addthis: false
